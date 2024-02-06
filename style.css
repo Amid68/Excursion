@@ -1,0 +1,40 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    color: gray;
+  }
+
+.header {
+    font-size: 50px;
+    font-weight: normal;
+  }
+
+.subheader {
+    font-size: 42px;
+    font-weight: 300;
+  }
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+  }
+
+.coming-soon {
+    text-align: right;
+    font-size: 21px;
+  }
+
+.content {
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+
+.footer {
+    font-size: 21px;
+  }
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
